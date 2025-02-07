@@ -57,7 +57,7 @@ export default function Navbar() {
         </div>
 
         {/* Mobile Navigation */}
-        <div className="flex lg:hidden ml-auto">
+        <div className="flex lg:hidden ml-auto z-10000">
           <button onClick={() => setIsOpen(!isOpen)} className="p-2">
             <Menu className="h-6 w-6" />
           </button>
