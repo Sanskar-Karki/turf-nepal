@@ -10,6 +10,7 @@ import {
   Route,
 } from "react-router-dom";
 import Contact from "./pages/Contact/Contact.tsx";
+import AuthPage from "./pages/auth/auth.tsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -17,6 +18,7 @@ const router = createBrowserRouter(
       <Route index element={<Home />} />
       <Route path="turfs" element={<Turfs />} />
       <Route path="contact" element={<Contact />} />
+      <Route path="auth" element={<AuthPage />} />
     </Route>
   )
 );

@@ -51,9 +51,14 @@ export default function Navbar() {
             </Link>
           </nav>
 
-          <button className="px-6 py-2 bg-primary text-white rounded-md">
-            Get Started
-          </button>
+          <Link
+            to="/auth"
+            className="group inline-flex h-10 items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground"
+          >
+            <button className="px-6 py-2 bg-primary text-white rounded-md">
+              Get Started
+            </button>
+          </Link>
         </div>
 
         {/* Mobile Navigation */}
@@ -84,9 +89,14 @@ export default function Navbar() {
                 >
                   Contact
                 </Link>
-                <button className="w-full px-4 py-2 bg-primary text-white rounded-md">
-                  Get Started
-                </button>
+                <Link
+                  to="/auth"
+                  className="block py-2 text-sm font-medium transition-colors hover:text-primary"
+                >
+                  <button className="w-full px-4 py-2 bg-primary text-white rounded-md">
+                    Get Started
+                  </button>
+                </Link>
               </nav>
             </div>
           )}
