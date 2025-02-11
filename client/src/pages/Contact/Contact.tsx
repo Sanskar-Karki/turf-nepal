@@ -23,7 +23,7 @@ const ContactPage = () => {
   };
 
   return (
-    <div className="min-h-screen bg-neutral-900 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-neutral-9np00 flex items-center justify-center p-4">
       <div className="container mx-auto max-w-5xl">
         <div className="grid md:grid-cols-2 gap-0 bg-neutral-800 rounded-3xl overflow-hidden shadow-2xl">
           {/* Left Side - Minimalist Contact Info */}
