@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 import Contact from "./pages/Contact/Contact.tsx";
 import AuthPage from "./pages/auth/auth.tsx";
+import TurfRegistration from "./pages/Home/ListTurf.tsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -19,6 +20,7 @@ const router = createBrowserRouter(
       <Route path="turfs" element={<Turfs />} />
       <Route path="contact" element={<Contact />} />
       <Route path="auth" element={<AuthPage />} />
+      <Route path="turf-registration" element={<TurfRegistration />} />
     </Route>
   )
 );
