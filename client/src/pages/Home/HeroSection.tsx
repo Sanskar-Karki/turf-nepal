@@ -47,7 +47,7 @@ const Home = () => {
               Find a Turf
             </Link>
             <Link
-              to="/contact"
+              to="/turf-registration"
               className="bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white py-3 px-8 rounded-lg text-lg font-semibold transition-all duration-300 hover:scale-105"
             >
               List Your Turf
