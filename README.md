@@ -16,5 +16,6 @@ Turf Nepal is a web application that streamlines the booking process for futsal 
 - **Backend**: Fast api
 - **Database**: PostgresSql
 - **Authentication**: JWT, OAuth
+- **Hosting**: Vercel (Frontend), Render (Backend)
 
 The website is under construction
