@@ -11,7 +11,7 @@ import {
 } from "react-router-dom";
 import Contact from "./pages/Contact/Contact.tsx";
 import AuthPage from "./pages/auth/auth.tsx";
-import TurfRegistration from "./pages/Home/ListTurf.tsx";
+import TurfRegistration from "./pages/Home/TurfRegistration.tsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
