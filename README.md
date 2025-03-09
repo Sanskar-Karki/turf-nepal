@@ -51,19 +51,19 @@ Turf Nepal is an online platform that allows users to book futsal fields across 
 ## 📸 Screenshots  
 <!-- Add screenshots here -->
 
-![Home Page]![image](https://github.com/user-attachments/assets/2a2f2f46-5483-4d0c-9ec0-53cab1763465)
+[Home Page](https://github.com/user-attachments/assets/b2711515-e8cf-4352-83f9-45a483c89f52)
 
-![Turfs Page]![image](https://github.com/user-attachments/assets/b2711515-e8cf-4352-83f9-45a483c89f52)
+[Turfs Page](https://github.com/user-attachments/assets/2a2f2f46-5483-4d0c-9ec0-53cab1763465)
 
-![Contact]![image](https://github.com/user-attachments/assets/ec5b5199-47a5-4081-b1c6-52afae0f58ae)
+[Contact](https://github.com/user-attachments/assets/ec5b5199-47a5-4081-b1c6-52afae0f58ae)
 
-![Login Page]![image]![image](https://github.com/user-attachments/assets/0df77602-9ee1-4b4a-b278-76e5bfd600aa)
-
-
-![Signup Page]![image]![image](https://github.com/user-attachments/assets/0fb4b1a9-5499-4844-979c-34cd71b588a8)
+[Login Page(https://github.com/user-attachments/assets/0df77602-9ee1-4b4a-b278-76e5bfd600aa)
 
 
-![Register your Turf]![image]![image]![image](https://github.com/user-attachments/assets/7c0e3be5-1670-4526-8fc4-ea6d768be368)
+[Signup Page](https://github.com/user-attachments/assets/0fb4b1a9-5499-4844-979c-34cd71b588a8)
+
+
+[Register your Turf](https://github.com/user-attachments/assets/7c0e3be5-1670-4526-8fc4-ea6d768be368)
 
 
 ---
